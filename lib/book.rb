@@ -18,3 +18,5 @@ class Book
   def author
     @author
   end
+
+  attr_accessor :page_count
